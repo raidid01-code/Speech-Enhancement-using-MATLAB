@@ -41,7 +41,6 @@ Tested on a 12s speech sample with white Gaussian noise at 0 dB SNR — one of t
 
 Spectrogram comparison shows clear reduction in wideband noise energy and partial recovery of low-frequency speech formants.
 
-> Add your spectrogram comparison image here — it makes the result immediately obvious to anyone reading
 
 ---
 
